@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siji</h1>
-<h3 align="center">A passionate frontend developer and dev ops engineer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate frontend developer and devops engineer from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently learning **django, graphQL, data structures and algorithms**
 
